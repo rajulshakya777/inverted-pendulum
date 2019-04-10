@@ -4,3 +4,4 @@ Encoder,Arduino uno,High speed motor(arround 6000 or higher rpm),Pendulum and a 
 is obtained by tunnig the system for the most suitable values of PID algorithm(block diagram of PID algorithm is given in .jpg file) constants.
 
 for more information and please contact- rshakyawar.r@ec.iitr.ac.in
+
